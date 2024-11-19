@@ -1,33 +1,23 @@
 class Solution(object):
     def convert(self, s, numRows):
 
-        list_parts = []
-        for i in range(numRows):
-            list_parts.append([])
-
-        step = 0
-        direction = 0 # 0 for increment, 1 for decrement
-
-        for i in range(len(s)):
-
-            if numRows == 1:
+        if numRows == 1 or numRows >= len(s):
                 return s
 
-            if step == numRows-1:
-                direction = 1
-            if step == 0:
-                direction = 0
+        zigzag = [''] * numRows
+        current_row = 0
+        going_down = False
 
-            if direction == 0:
-                list_parts[step].append(s[i])
-                step +=1
-            else:
-                list_parts[step].append(s[i])
-                step -=1
+        for char in s:
 
-        string_list = sum(list_parts, [])
-        string = "".join(string_list)
+            zigzag[current_row] += char
 
-        return string
+            if current_row == 0 or current_row == numRows - 1:
+                going_down = not going_down
+
+            # Move to the next row
+            current_row += 1 if going_down else -1
+
+        return "".join(zigzag)
 
         

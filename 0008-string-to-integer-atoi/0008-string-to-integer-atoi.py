@@ -6,14 +6,12 @@ class Solution(object):
         if len(s) == 0:
             return 0
         
+        sign = 1
         if s[0] == "-":
             sign = -1
             s = s[1:]
         elif s[0] == "+":
-            sign = 1
             s = s[1:]
-        else:
-            sign = 1
 
         s = s.lstrip("0")
 
@@ -26,7 +24,7 @@ class Solution(object):
                 break
 
         if number_str == "":
-            number_str = "0"
+            return 0
 
         number_int = int(number_str) * sign
 

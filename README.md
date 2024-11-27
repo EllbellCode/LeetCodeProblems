@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +59,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->

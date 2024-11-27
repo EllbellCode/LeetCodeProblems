@@ -16,6 +16,8 @@ class Solution(object):
         for char in digits:
             digit_letters.append(letters[int(char)])
 
+        #Cartesian Product over all of the lists
+        #To give every combination!
         for element in itertools.product(*digit_letters):
             combinations.append(''.join(element))
 

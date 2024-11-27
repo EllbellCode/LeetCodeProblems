@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |

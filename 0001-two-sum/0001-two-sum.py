@@ -7,11 +7,16 @@ class Solution(object):
         """
         """
         Given n is the length of nums then time complexity here is O(n**2)
+
         for i in range(len(nums)):
             for j in range(len(nums)):
                 if nums[i] + nums[j] == target and i != j:
                         return [i,j]
         """
+
+        """
+        This solution appears to be done in O(n) time but the list sort requires O(nlogn)
+
         left, right = 0, len(nums)-1
         nums_sort = sorted(nums)
         while left < right:
@@ -28,8 +33,15 @@ class Solution(object):
                 left += 1
             elif left_num + right_num > target:
                 right -= 1
+        """  
 
-
+        num_indices = {}  # Dictionary to store num -> index mapping
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in num_indices:
+                return [num_indices[complement], i]
+            num_indices[num] = i  # Store the index of the current number
+       
 
 
         

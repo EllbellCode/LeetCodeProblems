@@ -14,7 +14,7 @@ class Solution(object):
 
         # Determine the sign of the result
         sign = -1 if (dividend < 0) ^ (divisor < 0) else 1
-        
+
         # Compute absolute values
         dividend, divisor = abs(dividend), abs(divisor)
 
@@ -29,7 +29,6 @@ class Solution(object):
             dividend -= temp
             quotient += multiple
 
-    
         return min(max(-2**31, sign * quotient), 2**31 - 1)
         
 

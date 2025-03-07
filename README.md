@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

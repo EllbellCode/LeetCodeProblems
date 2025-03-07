@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0035-search-insert-position) |
 ## Greedy
 |  |
 | ------- |
@@ -118,4 +119,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

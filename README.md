@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -90,10 +91,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 ## Sorting
 |  |
 | ------- |

@@ -93,17 +93,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0046-permutations) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0018-4sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking
 |  |
 | ------- |

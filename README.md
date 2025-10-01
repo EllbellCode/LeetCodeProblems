@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0670-maximum-swap](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0670-maximum-swap](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0670-maximum-swap) |
 ## Sorting
 |  |
 | ------- |

@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
@@ -116,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Backtracking

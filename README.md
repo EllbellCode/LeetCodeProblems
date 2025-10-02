@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0047-permutations-ii) |
 ## Trie
 |  |
 | ------- |

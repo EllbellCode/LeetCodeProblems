@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0670-maximum-swap](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0670-maximum-swap) |
 ## Recursion
 |  |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0134-gas-station) |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |

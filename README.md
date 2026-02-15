@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 ## Array
 |  |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0134-gas-station) |
+| [0322-coin-change](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Greedy
@@ -182,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0134-gas-station) |
 | [0322-coin-change](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0322-coin-change) |
@@ -180,11 +181,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0059-spiral-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |

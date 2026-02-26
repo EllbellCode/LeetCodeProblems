@@ -1,12 +1,15 @@
 class Solution(object):
-    def generateMatrix(self, n):
+    def generateMatrix(self,n):
+
+        import numpy as np 
         
-    
         init = 1
         row = 0
         column = 0
         start = 0
         end = n
+        grid = np.zeros((n,n), dtype=int)
+        print(grid[0,0])
 
         positions = {}
         while init <= n**2:
@@ -17,7 +20,7 @@ class Solution(object):
             # Right
             while column < end:
 
-                positions[row,column] = init
+                grid[row,column] = init
                 column += 1
                 init += 1
             if init > n**2:
@@ -29,7 +32,7 @@ class Solution(object):
             # Down
             while row < end:
 
-                positions[row,column] = init
+                grid[row,column] = init
                 row += 1
                 init += 1
             if init > n**2:
@@ -41,7 +44,7 @@ class Solution(object):
             # Left
             while column >= start:
 
-                positions[row,column] = init
+                grid[row,column] = init
                 column -= 1
                 init += 1
             if init > n**2:
@@ -54,7 +57,7 @@ class Solution(object):
             # Up
             while row >= start:
 
-                positions[row,column] = init
+                grid[row,column] = init
                 row -= 1
                 init +=1
             if init > n**2:
@@ -64,16 +67,4 @@ class Solution(object):
             column += 1
             end -= 1
 
-        print(positions)
-
-        grid = []
-
-        for i in range(n):
-            row = []
-            for j in range(n):
-
-                row.append(positions[i,j])
-
-            grid.append(row)
-
-        return grid
+        return grid.tolist()

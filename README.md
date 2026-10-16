@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0058-length-of-last-word) |
+| [1768-merge-strings-alternately](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0031-next-permutation) |
+| [1768-merge-strings-alternately](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |

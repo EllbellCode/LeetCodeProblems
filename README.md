@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |

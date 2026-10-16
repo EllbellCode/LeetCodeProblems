@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0670-maximum-swap](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0670-maximum-swap) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0058-length-of-last-word) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -209,4 +211,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/EllbellCode/LeetCodeProblems/tree/master/0062-unique-paths) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/EllbellCode/LeetCodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
